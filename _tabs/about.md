@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-I began programming at a young age, in an era when there was no such thing as the internet as we know it today, playing games and learning to code in an era that relied on magazines and others who had the same interests.
+I began programming at a young age, in an era when there was no such thing as the internet as we know it today, playing games and learning to code in an era that relied on magazines and others who had the same interests was a challenge to say the least.
 
 In the late 80's and most of the 90's I spent developing and designing games, and left the industry in the late 90's to pursue a career in Application Development, and ending as an  Enterprise Backend solutions Architect.
 
