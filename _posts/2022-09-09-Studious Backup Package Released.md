@@ -17,4 +17,4 @@ The package is configurable, by going to the preferences section, by going to th
 
 <a href="https://github.com/Studious-Games/StudiousBackupPackage">Visit the Backup Package Repository</a>
 
-![RotateAround Results](BackupPreference.png)
+![Backup Settings](BackupPreference.png)
