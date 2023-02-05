@@ -4,6 +4,7 @@ title: Studious Backup Package Released
 date: 2022-09-09 21:58
 category: [Unity_Packages]
 tags: [Unity]
+img_path: /images/
 ---
 
 Is a small very simple library, that helps manage your project backups.
@@ -15,3 +16,5 @@ Once the package has been installed, you have two options to make a backup, the 
 The package is configurable, by going to the preferences section, by going to the Edit menu and selecting Preferences.
 
 <a href="https://github.com/Studious-Games/StudiousBackupPackage">Visit the Backup Package Repository</a>
+
+![RotateAround Results](BackupPreference.png)
