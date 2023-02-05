@@ -4,7 +4,7 @@ title: Fixing Intellisense inside Visual Studio with Unity
 date: 2022-12-19 20:20
 category: [YouTube]
 author: Studious Games
-tags: [Unity,YouTube]
+tags: [unity,youtube]
 summary: 
 ---
 
