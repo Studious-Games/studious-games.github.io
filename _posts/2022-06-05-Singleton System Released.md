@@ -2,8 +2,8 @@
 layout: post
 title: Studious Singleton System
 date: 2022-06-05 20:02
-category: [Unity_Packages]
-tags: [Unity]
+category: [unity_packages]
+tags: [unity]
 
 ---
  

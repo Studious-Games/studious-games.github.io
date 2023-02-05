@@ -2,8 +2,8 @@
 layout: post
 title: Studious Pooling System
 date: 2022-08-16 21:52
-category: [Unity_Packages]
-tags: [Unity,Pooling]
+category: [unity_packages]
+tags: [unity,pooling]
 
 ---
 

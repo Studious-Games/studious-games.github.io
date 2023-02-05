@@ -2,8 +2,8 @@
 layout: post
 title: Unity Naming Conventions
 date: 2022-04-25 22:55
-category: [Unity]
-tags: [Unity,Programming]
+category: [unity]
+tags: [unity,programming]
 
 ---
 

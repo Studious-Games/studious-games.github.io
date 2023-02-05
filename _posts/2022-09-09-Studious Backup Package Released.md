@@ -2,8 +2,8 @@
 layout: post
 title: Studious Backup Package Released
 date: 2022-09-09 21:58
-category: [Unity_Packages]
-tags: [Unity]
+category: [unity_uackages]
+tags: [unity]
 img_path: /images/
 ---
 

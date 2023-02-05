@@ -2,8 +2,8 @@
 layout: post
 title: Fixing Intellisense inside Visual Studio with Unity
 date: 2022-12-19 20:20
-category: [YouTube]
-tags: [Unity,YouTube]
+category: [youtube]
+tags: [unity,youtube]
 
 ---
 
