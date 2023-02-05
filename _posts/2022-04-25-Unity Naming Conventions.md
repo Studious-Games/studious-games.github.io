@@ -145,5 +145,5 @@ public class ClassName : ISomeInterface // interfaces start with an "I"
 ```
 
 For Microsoft's Coding Guidelines :
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions" />
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions">Microsoft Coding Conventions</a>
 
