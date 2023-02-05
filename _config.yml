@@ -14,7 +14,7 @@ lang: en
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: Australia/Melbourne
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -27,7 +27,7 @@ description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://Studious-Games.github.io'
 
 github:
   username: Studious-Games             # change to your github username
@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: # https://avatars.githubusercontent.com/u/1366816
+avatar: https://avatars.githubusercontent.com/u/1366816
 
 # boolean type, the global switch for ToC in posts.
 toc: true
