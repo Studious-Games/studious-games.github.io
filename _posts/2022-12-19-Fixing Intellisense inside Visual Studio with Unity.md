@@ -7,7 +7,7 @@ tags: [Unity,YouTube]
 
 ---
 
-Every now and then Unity will not install the tools required when using Visual Studio, this can be because Visual Studio was installed separately from Unity. If you are experiencing no auto completion or Intellisense and errors are not showing up, then the fixes in this video will help you fix the Intellisense and Auto Completition not working with Unity.
+Every now and then Unity will not install the tools required when using Visual Studio, this can be because Visual Studio was installed separately from Unity. If you are experiencing no auto completion or Intellisense and errors are not showing up, then the fixes in this video will help you fix the Intellisense and Auto Completion not working with Unity.
 
 Join our Discord: https://discord.gg/5qcucBs
 
