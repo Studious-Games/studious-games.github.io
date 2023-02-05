@@ -12,4 +12,4 @@ Every now and then Unity will not install the tools required when using Visual S
 
 Join our Discord: https://discord.gg/5qcucBs
 
-{% include embed/{youtube}.html id='{Iyo-xRXH7AY}' %}
+{% youtube Iyo-xRXH7AY %}
