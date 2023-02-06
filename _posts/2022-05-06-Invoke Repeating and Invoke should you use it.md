@@ -4,7 +4,6 @@ title: Invoke Repeating and Invoke should you use it
 date: 2022-05-06 10:29
 category: [unity]
 tags: [unity,programming]
-summary: 
 ---
 
 There comes a time when you either need to run a block of code after a certain time, or you need to run a block repeatedly at a predetermined time. The question is how would you do this, and Unity has a few ways you can do this, one of which is using `Invoke()` and/or using `InvokeRepeating()` to do the job.
