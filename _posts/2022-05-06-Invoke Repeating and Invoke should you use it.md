@@ -12,7 +12,7 @@ There comes a time when you either need to run a block of code after a certain t
 
 When you would like to run a block of code after a certain delay, there is nothing more easier than to use `Invoke`, in the following example the `Execute` method is executed or runs with a 2 seconds delay after the scene is started.
 
-```cssharp
+```csharp
 public class InvokeTest : MonoBehaviour
 {  
     private void Start()
@@ -29,7 +29,7 @@ public class InvokeTest : MonoBehaviour
 
 To run a method that runs periodically, then we can use `InvokeRepeating`, which is simialr to `Invoke`. Only this time, there is a third parameter that determines the time intervals that a block of code will run.
 
-```cssharp
+```csharp
 public class InvokeTest : MonoBehaviour
 {  
     private void Start(){
@@ -52,7 +52,7 @@ The last difference between `Invoke()` and a `Coroutine`, is the execution condi
 
 We can see in the code example below what we would need to do.
 
-```cssharp
+```csharp
 public class InvokeTest : MonoBehaviour
 {  
     private void Execute(){
