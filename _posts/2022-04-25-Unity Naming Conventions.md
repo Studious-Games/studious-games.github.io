@@ -4,7 +4,6 @@ title: Unity Naming Conventions
 date: 2022-04-25 22:55
 category: [unity]
 tags: [unity,programming]
-
 ---
 
 Naming conventions or Coding Guidelines, is a way that helps not only a lone developer to organize the code better, but it also helps teams debug your code with ease as well as making the code consistent. It is a sensitive topic amongst a lot of developers, especially those who are adamant that they don't need to change. Which is fine, they have adopted what works for them.

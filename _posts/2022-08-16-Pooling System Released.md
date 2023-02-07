@@ -4,7 +4,6 @@ title: Studious Pooling System
 date: 2022-08-16 21:52
 category: [unity_packages]
 tags: [unity,pooling]
-
 ---
 
 Is a small very simple library, that helps Pool Objects.
