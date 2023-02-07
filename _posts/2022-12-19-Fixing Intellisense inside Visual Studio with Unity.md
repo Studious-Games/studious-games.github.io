@@ -2,7 +2,7 @@
 layout: post
 title: Fixing Intellisense inside Visual Studio with Unity
 date: 2022-12-19 20:20
-category: [youtube]
+category: [tutorial,quick_tip]
 tags: [unity,youtube,tutorial]
 ---
 
