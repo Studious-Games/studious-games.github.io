@@ -10,7 +10,7 @@ One of the most common problems when developing in Unity, is that there are time
 
 As they tend to get over used.
 
-The Persistent Management System, was designed to be simple and easy to use and understand, and leverages of keep objects alive via the DontDestroyOnLoad option. Which allows for a script to then be made persistent with ease.
+The Persistent Management System, was designed to be simple and easy to use and understand, and leverages of keep objects alive via the `DontDestroyOnLoad` option. Which allows for a script to then be made persistent with ease.
 
 Like the Singleton pattern, this can still be over used, so do so with moderation.
 
