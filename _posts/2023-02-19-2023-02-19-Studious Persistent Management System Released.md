@@ -16,7 +16,7 @@ Like the Singleton pattern, this can still be over used, so do so with moderatio
 
 Getting started is easy, create a script and add the attribute below, and you now have a component that will be persistent to the next scene.
 
-```CS
+```csharp
 [Persistent()]
 public class GameManager : MonoBehaviour
 {
@@ -25,7 +25,7 @@ public class GameManager : MonoBehaviour
 
 And that is all that is required to make it the class persist, and when you need to get access to the class, then all you need to do is something like the below.
 
-```CS
+```csharp
 public Player : MonoBehaviour
 {
     private void Start()
