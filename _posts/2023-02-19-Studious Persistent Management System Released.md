@@ -17,7 +17,7 @@ Just like the Singleton pattern, this can still be over used, so do so with mode
 Getting started is easy, create a script and add the attribute below, and you now have a component that will be persistent to the next scene.
 
 ```csharp
-[Persistent()]
+[Persistent(GroupName = "Managers")]
 public class GameManager : MonoBehaviour
 {
 }
