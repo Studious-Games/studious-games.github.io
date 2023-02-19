@@ -35,6 +35,6 @@ public Player : MonoBehaviour
 }
 ```
 
-And now you can use the methods, fields and properties at you leisure.
+And now you can use the methods, fields and properties at your leisure.
 
 <a href="https://github.com/Studious-Games/PersistentManagementSystem">Visit the Persistent Management System Repository</a>
