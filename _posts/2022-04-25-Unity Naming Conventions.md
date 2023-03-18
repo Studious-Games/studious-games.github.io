@@ -49,7 +49,7 @@ A common issue can then arise in some examples when you have code that looks lik
     }
 ```
 
-As a developer, the `Method` has <a href="https://en.wikipedia.org/wiki/Camel_case">camelCase</a> and while the code does not have a summary to help document the code, if it did then we would be naming the parameters to identify what the intend of the inputs for the method are.
+As a developer, the `Method` has PascalCase and while the code does not have a summary to help document the code, if it did then we would be naming the parameters to identify what the intend of the inputs for the method are.
 
 And as this is then used for a width and height for the class, it is kept to a minimum to help later on when it is used. It could be argued that it could be refactored to the following example.
 
