@@ -23,4 +23,5 @@ Source code and assets: https://github.com/Studious-Games/Snake-Tutorial
 Subscribe for more Unity tutorials: https://www.youtube.com/@StudiousGames?sub_confirmation=1
 Join our Discord community: https://discord.gg/5qcucBs
 
+
 {% youtube SqFAdLHNkUU %}
