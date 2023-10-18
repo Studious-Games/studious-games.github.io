@@ -19,9 +19,9 @@ You can download the project files from the link provided below. Let’s embark 
 
 Don’t forget to check out our other tutorials in the ‘Learn Unity’ series.
 
- <a href="https://github.com/Studious-Games/Snake-Tutorial">Click here for the Source code and assets</a>
- <a href="https://www.youtube.com/@StudiousGames?sub_confirmation=1">Click here to Subscribe for more Unity tutorials</a>
- <a href="https://discord.gg/5qcucBs">To Join our Discord community click here</a>
+ <a href="https://github.com/Studious-Games/Snake-Tutorial">Click here for the Source code and assets</a><br>
+ <a href="https://www.youtube.com/@StudiousGames?sub_confirmation=1">Click here to Subscribe for more Unity tutorials</a><br>
+ <a href="https://discord.gg/5qcucBs">To Join our Discord community click here</a><br>
 
 
 
