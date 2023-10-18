@@ -4,7 +4,7 @@ title: Making the Classic Snake Game in Unity
 date: 2023-10-18 23:57
 category: 
 author: 
-category: [tutorial,quick_tip]
+category: [tutorial,full_course]
 tags: [unity,youtube,tutorial]
 summary: 
 ---
